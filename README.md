@@ -44,7 +44,6 @@ The script generates a vertical animated lily video suitable for showcasing in s
 
 Created as a Python animation project exploring procedural botanical modeling and cinematic visual storytelling.
 
-If you found this project through my coding reels, feel free to explore the source code!
 
 ---
 
